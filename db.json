@@ -100,41 +100,6 @@
             "kecamatan" : "Kecamatan Bontomanai",
             "deskripsi" : "Kampung ini dikelola oleh komunitas masyarakat setempat. Beberapa fasilitas akan segera ditambahkan antara lain gazebo, wc umum dan jalur untuk wisata mangrove sekitar.Kampung penyu ini hanya berjarak 1 km dari pantai Sumingi. Berbeda dengan pantai Sumingi, kampung penyu tidak hanya memiliki keindahan pantai pasir hitam yang luas.",
             "atraksi_wisata" : "Panorama pantai, menikmati matahari tenggelam, berenang,penakaran penyu."
-        },{
-            "nama" : "Tanjung Merayu",
-            "kecamatan" :"Kecamatan Bontomanai",
-            "deskripsi" : "Tanjung merayu ini dikelola oleh pemerintah desa dengan penambahan fasilitas diantaranya berupa gazebo dan wc umum. Tanjung merayu ini dibuat dengan  memanfaatkan lahan sekitar sebagai taman dengan pemandangan pasir hitam dan matahari tenggelam ketika sore hari. Tanjung Merayu ini berjarak ±4 km dari pusat kota dan merupakan objek wisata yang terdekat dari kota.",
-            "atraksi_wisata" : "Panorama pantai, menikmati matahari tenggelam."
-        },{
-            "nama" : "Pantai Pinang",
-            "kecamatan" :"Kecamatan Bontosikuyu",
-            "deskripsi" : "Pantai ini dapat dikunjungi saat musim barat. Untuk menuju kepantai pinang ini, pengunjung terlebih dahulu harus melewati jalur darat menggunakan kendaraan roda dua atau roda empat hingga sampai ke pelabuhan Pattumbukang yang berada di Desa Lowa. Selanjutnya mengambil jalur laut dengan menggunakan joloro atau perahu setempat menuju pantai pinang. ",
-            "atraksi_wisata" : "Panorama pantai, berenang, menyelam."
-        },{
-            "nama" : "Bonetappalang",
-            "kecamatan" :"Kecamatan Bontosikuyu",
-            "deskripsi" : "Dari segi pengelolaan hampir sama dengan pantai pinang yang juga memanfaatkan keindahan pantai pasir putih dan terumbukarangnya sebagai wisata bawah laut. Pantai ini hanya berjarak ±3 km dari pantai pinang.",
-            "atraksi_wisata" : "Panorama pantai, berenang, menyelam."
-        },{
-            "nama" : "Punaga’an",
-            "kecamatan" :"Kecamatan Bontosikuyu",
-            "deskripsi" : "Pengelola menyediakan fasilitas-fasilitas berupa gazebo, wc umum, serta penyewaan  alat-alat untuk menyelam. Aksesibilitas menuju pantai ini dapat ditempuh menggunkan kendaraan roda dua atau roda empat dengan kondisi jalan beraspal.",
-            "atraksi_wisata" : "Panorama pantai, berenang, menyelam."
-        },{
-            "nama" : "Batu Lohe",
-            "kecamatan" : "Kecamatan Buki",
-            "deskripsi" : "Untuk mencapai pantai ini, pengunjung dapat menggunakan kendaraan roda dua atau roda empat hingga mencapai desa setempat, kemudian dilanjutkan lagi dengan menempuh perjalanan ±2 jam perjalanan melewati perkebunan masyarakat. Kondisi jalan menuju tempat ini berkerikil dan belum dapat dilalui menggunakan kendaraan roda dua ataupun roda empat. Pantai Batu Lohe belum termasuk kedalam objek wisata yang telah dikelola.",
-            "atraksi_wisata" : "Panorama pantai, berenang."
-        },{
-            "nama" : "Ngapalohe",
-            "kecamatan" :"Kecamatan Bontomanai",
-            "deskripsi" : "Untuk sampai ke desa setempat pengunjung dapat menggunakan kendaraan roda dua atau roda empat, namun untuk mencapai sampai ke daerah wisata ngapalohe pengunjung harus  menempuh jarak ±5 km dengan berjalan kaki atau ±2 jam perjalanan. Kondisi jalan dari desa setempat hingga mencapai tempat tujuan merupakan daerah perbukitan yang belum beraspal dan masih merupakan jalan sempit yang dikelilingi semak dan hutan dikanan kirinya.",
-            "atraksi_wisata" : "Panorama pantai, berenang."
-        },{
-            "nama" : "Baloiya",
-            "kecamatan" : "Kecamatan Bontoharu",
-            "deskripsi" : "Adapun penambahan fasilitas untuk sementara berupa wc umum. Pengelolaan Pantai Baloiya ini memanfaat pemandangan pasir putih disekitarnya. Terdapatnya pulau didepan pantai yang dapat dikunjungi ketika pantai surut menambah karakteristik tersendiri dari pantai ini. Panta ini dapat ditempuh dengan menggunakan kendaraan roda dua atau roda empat dengan kondisi jalan beraspal.",
-            "atraksi_wisata" : "Panorama pantai, berenang."
         }
     ]
 }
